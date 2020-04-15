@@ -1,2 +1,2 @@
 
-<img src="https://github.com/cosmicpython/book/blob/master/assets/UML.png" alt="diagram">
+<img src="https://github.com/teaglebuilt/ProductAllocationSystem/blob/master/assets/UML.png" alt="diagram">
